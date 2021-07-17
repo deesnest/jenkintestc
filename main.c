@@ -5,3 +5,4 @@ main() {
 	reverse();
 	prime();
 }
+//this file is for main function
