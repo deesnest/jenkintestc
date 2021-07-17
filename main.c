@@ -3,4 +3,5 @@ main() {
 	fact();
 	palin();
 	reverse();
+	prime();
 }
