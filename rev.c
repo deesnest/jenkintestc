@@ -1,3 +1,4 @@
+//this program is to reverse the given number
 #include<stdio.h>  
  reverse()    
 {    
