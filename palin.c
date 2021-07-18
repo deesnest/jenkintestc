@@ -1,3 +1,4 @@
+//this is palindrome program
 #include <stdio.h>
 void palin() {
   int n, reversed = 0, remainder, original;
